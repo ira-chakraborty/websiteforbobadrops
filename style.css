@@ -1,0 +1,73 @@
+img { 
+    width: 500px;
+}
+
+body { 
+    background-image: url('https://i.pinimg.com/474x/1a/ff/17/1aff17fd669fbfd0668f8fb7d7bfa3e9.jpg');
+    background-size: cover;      
+    background-position: center;  
+    background-repeat: no-repeat;
+    font-family: 'Rye', cursive;
+    text-align: center;
+    color:rgb(169, 120, 61);
+}
+
+
+h1 {
+    color:rgb(32, 18, 1);
+    font-size: 80px;
+}
+
+h2 {
+    color:rgb(84, 54, 19);
+    font-style: italic;
+    text-shadow:
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;
+    background-color: rgba(32, 3, 3, 0.5); /* red with some transparency */
+    padding: 20px;
+    display: inline-block; 
+}
+
+
+h3 {
+    color:rgb(84, 19, 19);
+    font-size: 50px;
+    text-shadow:
+    -1px -1px 0 rgb(168, 86, 86),
+    1px -1px 0 rgb(168, 86, 86),
+    -1px 1px 0 rgb(168, 86, 86),
+    1px 1px 0 rgb(168, 86, 86);
+}
+
+h4 { 
+    color:rgb(106, 56, 48);
+    font-size: 35px;
+    text-decoration: underline;
+    text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
+}
+
+p2 { 
+    color:rgb(29, 4, 1);
+    font-size: 25px;
+    font-style: italic;
+    background-color: rgba(220, 220, 220, 0.249); 
+    padding: 10px;
+    display: inline-block; 
+}
+
+h5 {
+    color:rgb(239, 238, 238);
+    font-size: 30px;
+    text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
+}
